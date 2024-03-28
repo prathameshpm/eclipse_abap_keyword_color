@@ -4,22 +4,6 @@
   <void method="add">
    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
     <void property="blue">
-     <int>64</int>
-    </void>
-    <void property="name">
-     <string>method</string>
-    </void>
-    <void property="red">
-     <int>128</int>
-    </void>
-    <void property="selected">
-     <boolean>true</boolean>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
-    <void property="blue">
      <int>255</int>
     </void>
     <void property="green">
@@ -122,25 +106,6 @@
     </void>
     <void property="name">
      <string>endclass</string>
-    </void>
-    <void property="red">
-     <int>128</int>
-    </void>
-    <void property="selected">
-     <boolean>true</boolean>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
-    <void property="blue">
-     <int>192</int>
-    </void>
-    <void property="green">
-     <int>128</int>
-    </void>
-    <void property="name">
-     <string>endmethod</string>
     </void>
     <void property="red">
      <int>128</int>
@@ -1664,16 +1629,16 @@
   <void method="add">
    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
     <void property="blue">
-     <int>64</int>
+     <int>205</int>
     </void>
     <void property="green">
-     <int>128</int>
+     <int>91</int>
     </void>
     <void property="name">
      <string>exporting</string>
     </void>
     <void property="red">
-     <int>255</int>
+     <int>242</int>
     </void>
     <void property="selected">
      <boolean>true</boolean>
@@ -1683,16 +1648,16 @@
   <void method="add">
    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
     <void property="blue">
-     <int>64</int>
+     <int>205</int>
     </void>
     <void property="green">
-     <int>128</int>
+     <int>91</int>
     </void>
     <void property="name">
      <string>importing</string>
     </void>
     <void property="red">
-     <int>255</int>
+     <int>242</int>
     </void>
     <void property="selected">
      <boolean>true</boolean>
@@ -1702,16 +1667,35 @@
   <void method="add">
    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
     <void property="blue">
-     <int>64</int>
+     <int>205</int>
     </void>
     <void property="green">
-     <int>128</int>
+     <int>91</int>
     </void>
     <void property="name">
      <string>changing</string>
     </void>
     <void property="red">
-     <int>255</int>
+     <int>242</int>
+    </void>
+    <void property="selected">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+    <void property="blue">
+     <int>205</int>
+    </void>
+    <void property="green">
+     <int>91</int>
+    </void>
+    <void property="name">
+     <string>receiving</string>
+    </void>
+    <void property="red">
+     <int>242</int>
     </void>
     <void property="selected">
      <boolean>true</boolean>
@@ -2632,6 +2616,44 @@
     </void>
     <void property="name">
      <string>concatenate</string>
+    </void>
+    <void property="red">
+     <int>203</int>
+    </void>
+    <void property="selected">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+    <void property="blue">
+     <int>78</int>
+    </void>
+    <void property="green">
+     <int>214</int>
+    </void>
+    <void property="name">
+     <string>method</string>
+    </void>
+    <void property="red">
+     <int>203</int>
+    </void>
+    <void property="selected">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+    <void property="blue">
+     <int>78</int>
+    </void>
+    <void property="green">
+     <int>214</int>
+    </void>
+    <void property="name">
+     <string>endmethod</string>
     </void>
     <void property="red">
      <int>203</int>
