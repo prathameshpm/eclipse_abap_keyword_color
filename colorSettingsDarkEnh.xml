@@ -2596,6 +2596,22 @@
      <int>255</int>
     </void>
     <void property="name">
+     <string>decimals</string>
+    </void>
+    <void property="red">
+     <int>255</int>
+    </void>
+    <void property="selected">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+    <void property="green">
+     <int>255</int>
+    </void>
+    <void property="name">
      <string>move-corresponding</string>
     </void>
     <void property="red">
